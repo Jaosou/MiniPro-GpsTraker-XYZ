@@ -13,7 +13,7 @@ const char* ssid = "WIFINAME";        //ssid of your wifi
 const char* password = "PASSWORD";  //password of your wifi
 
 //Connect Telegram
-const char* token = "7829882370:AAGpqWhn9G8h7upkLmjm-b6VJ9zoEpoM2H4";
+const char* token = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 String id = "1777879694";
 WiFiClientSecure client;
 
