@@ -9,8 +9,8 @@
 // กำหนดการตั้งค่า GPS
 TinyGPSPlus gps;
 SoftwareSerial SerialGPS(4, 5);     // ใช้ Serial1 สำหรับการรับข้อมูลจาก GPS
-const char* ssid = "Jaosou";        //ssid of your wifi
-const char* password = "30082022";  //password of your wifi
+const char* ssid = "WIFINAME";        //ssid of your wifi
+const char* password = "PASSWORD";  //password of your wifi
 
 //Connect Telegram
 const char* token = "7829882370:AAGpqWhn9G8h7upkLmjm-b6VJ9zoEpoM2H4";

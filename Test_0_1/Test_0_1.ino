@@ -24,8 +24,8 @@ Scheduler scheduler;
 
 
 // WIFI NAME AND PASS
-const char* ssid = "Jaosou";        //ssid of your wifi
-const char* password = "30082022";  //password of your wifi
+const char* ssid = "WIFINAME";        //ssid of your wifi
+const char* password = "PASSWORD";  //password of your wifi
 SoftwareSerial GPSSerial(4, 5);
 WiFiServer server(80);
 

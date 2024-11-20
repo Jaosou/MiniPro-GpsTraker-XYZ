@@ -11,8 +11,8 @@ int stat = 0;
 //------------------------------lineNotify--------------------------
 
 #include <ESP8266WiFi.h>
-#define SSID "Jaosou"
-#define PASSWORD "30082022"
+#define SSID "WIFINAME"
+#define PASSWORD "PASSWORD"
 
 //------------------------------------------------------------------
 

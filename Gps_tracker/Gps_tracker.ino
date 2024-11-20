@@ -25,8 +25,8 @@ TinyGPSPlus gps;  // The TinyGPS++ object
 
 //SoftwareSerial ss(rxGPS, txGPS); // The serial connection to the GPS device
 
-const char* ssid = "Jaosou";        //ssid of your wifi
-const char* password = "30082022";  //password of your wifi
+const char* ssid = "WIFINAME";        //ssid of your wifi
+const char* password = "PASSWORD";  //password of your wifi
 float latitude, longitude;
 int year, month, date, hour, minute, second;
 String date_str, time_str, lat_str, lng_str;
